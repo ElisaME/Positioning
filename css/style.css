@@ -1,0 +1,23 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+div{
+	width: 200px;
+	height: 200px;
+}
+.rojo{
+	background-color: red;
+	position:relative;
+	left: 50px;
+}
+.azul{
+	background-color: blue;
+	position: relative;
+	left:50px;
+}
+.verde{
+	background-color: green;
+	position: relative;
+	left: 50px;
+}
